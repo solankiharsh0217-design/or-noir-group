@@ -6,9 +6,9 @@ const DIVISION_LINKS = {
 
 const DIVISION_IMAGES = {
   hero: "https://ornoirtattoogallery.ch/wp-content/uploads/2024/06/photo_2023-12-10_16-02-23.jpg",
-  tattoo: "https://ornoirtattoogallery.ch/wp-content/uploads/2024/06/photo_2023-12-10_16-02-09.jpg",
-  studio: "https://ornoirtattoogallery.ch/wp-content/uploads/2024/06/photo_2023-12-10_16-02-32-1024x768.jpg",
-  detail: "https://ornoirtattoogallery.ch/wp-content/uploads/2024/06/photo_2023-12-10_16-02-26.jpg",
+  tattoo: "https://media.base44.com/images/public/69f0a79701cf0cf0776bcacd/5c0b27305_generated_image.png",
+  studio: "https://media.base44.com/images/public/69f0a79701cf0cf0776bcacd/fb483edb2_generated_image.png",
+  detail: "https://media.base44.com/images/public/69f0a79701cf0cf0776bcacd/870d01c15_generated_image.png",
 };
 
 const sharedDivisions = {
