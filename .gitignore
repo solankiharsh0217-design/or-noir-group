@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.*
+*.local
+.vscode
+.idea
+.DS_Store
+
+base44/.app.json*
+base44/.types/
