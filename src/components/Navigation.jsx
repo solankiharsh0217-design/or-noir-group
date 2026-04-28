@@ -21,6 +21,7 @@ export default function Navigation() {
 
   useEffect(() => {
     setMobileOpen(false);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [location.pathname]);
 
   useEffect(() => {
