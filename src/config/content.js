@@ -1,7 +1,7 @@
 const DIVISION_LINKS = {
   tattoo: "https://ornoirtattoogallery.ch",
-  art: "https://or-noir-art-gallery.base44.app",
-  manga: "https://or-noir-background-manga-gallery.base44.app",
+  art: "https://or-noir-art-gallery-v1.base44.app",
+  manga: "https://or-noir-background-manga-v1.base44.app",
 };
 
 const DIVISION_IMAGES = {
